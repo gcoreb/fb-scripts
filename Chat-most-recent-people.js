@@ -5,7 +5,7 @@ var spamInit = function(){
 for(var i =0; i<20/*seeDesc*/; i++){
 
  document.getElementsByClassName('_k_')[i].click();
-chatBox.value = ''e";
+chatBox.value = "/*seeDesc*/";
 boxID.click();
 
 };
